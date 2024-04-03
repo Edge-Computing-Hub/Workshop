@@ -1,5 +1,7 @@
 /* Top navigation bar styles */
 .navbar {
+    /*字体加粗*/
+    font-weight: bold;
     background-color: #fff;
     /* Change the background color as needed */
     box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
@@ -160,12 +162,13 @@
     border: 1px solid #ddd;
     padding: 15px;
     margin-top: 49px;
+    width: 850px;
     /* Aligns the top edge with the sidebar menu */
 }
 
 /* Title within the content box, assuming you want it styled like a heading */
 .content-box h2 {
-    color: #d00;
+    color: rgb(7, 7, 7);
     /* Red, or choose your color */
     margin-bottom: 10px;
 }
@@ -211,12 +214,14 @@ footer {
   }
   
   .carousel-caption h5 {
-    font-size: 24px; /* Large font size for the main heading */
+    color: #a2c0ec;
+    font-weight: bold;
+    font-size: 34px; /* Large font size for the main heading */
     margin: 0 0 10px; /* Space between heading and paragraph */
   }
   
   .carousel-caption p {
-    font-size: 16px; /* Smaller font size for the paragraph */
+    font-size: 20px; /* Smaller font size for the paragraph */
   }
   
   
