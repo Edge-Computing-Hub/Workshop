@@ -208,20 +208,22 @@ footer {
     color: #fff; /* White text color */
     padding: 10px; /* Some padding around the text */
     text-align: left; /* Align text to the left */
-    max-width: 300px; /* Maximum width of the text box */
-    margin-left: 60px;
-    height: 40%; /* Full height of the carousel */
+    max-width: 400px; /* Maximum width of the text box */
+    margin-left: 160px;
+    height: 30%; /* Full height of the carousel */
   }
   
   .carousel-caption h5 {
-    color: #a2c0ec;
+    color: #c2d1f1;
     font-weight: bold;
-    font-size: 34px; /* Large font size for the main heading */
+    font-size: 44px; /* Large font size for the main heading */
     margin: 0 0 10px; /* Space between heading and paragraph */
   }
   
   .carousel-caption p {
-    font-size: 20px; /* Smaller font size for the paragraph */
+    color: #c0f6d0;
+    margin-top: 10px;
+    font-size:28px; /* Smaller font size for the paragraph */
   }
   
   
